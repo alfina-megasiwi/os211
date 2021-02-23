@@ -3,6 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 15 L03 GitHub related (Starting GitHub)
-ZCZC W00 25 L23 Discord : join OS 211 server, register, and Read the rule
+ZCZC W00 25 L23 Discord : join OS 211 server, register, and read the rules
 ZCZC W00 100 L02 ZOOM : first meeting
 ZCZC W00 20 L22 YouTube: watching Neso Academy's video "Introduction to Operating System"

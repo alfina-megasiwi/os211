@@ -2,9 +2,8 @@
 layout: "layout"
 ---
 
-Hallo!
+Halo!
 
-This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+{{ site.title }} oleh {{ site.author }}.
 
-Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/)
-
+<br>

@@ -20,5 +20,5 @@ ZCZC W01 30 L15 Assignment #5
 ZCZC W01 30 L16 Assignment #6
 ZCZC W01 95 L17 Assignment #7
 ZCZC W01 60 L18 Assignment #8
-ZCZC W01 30 L05 GSGS
+ZCZC W01 50 L19 Checklist : Read OSC10 ch 1, 2, and 18
 

@@ -25,4 +25,7 @@ ZCZC W02 100 L02 ZOOM : Sesi Senin
 ZCZC W02 20 L13 Assignment #3
 ZCZC W02 10 L14 Assignment #4
 ZCZC W02 10 L15 Assignment #5
+ZCZC W02 10 L18 Assignment #8 : copy bash script
+ZCZC W02 5 L19 Assignment #9 : update mylog.txt
+ZCZC W02 15 L20 Assignment #10
 

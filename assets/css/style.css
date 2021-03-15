@@ -30,6 +30,7 @@
 
 .container a {
   color: #c99585;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -114,7 +115,7 @@
 }
 
 .navbar {
-  background-color: #c99585;
+  background-color: #8c9d75;
   color:            #FFFFFF;
   font-size:        0.7em;
 }

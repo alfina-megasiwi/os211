@@ -24,14 +24,18 @@
   font-size:    1.1em;
   font-family:  verdana,arial,helvetica,san-serif;
   text-align:   justify;
+  text-decoration: none;
+
 }
 
 .container a {
-  color: #c99585;
+  color: #dbc9ab;
+  text-decoration: none;
 }
 
 .container a:hover {
   color: #dbc9ab;
+  text-decoration: none;
 }
 
 .row {
@@ -132,6 +136,7 @@
   color:            #dbc9ab;
   font-size:        1em;
   font-weight:      bold;
+  text-decoration: none;
 }
 
 pre {

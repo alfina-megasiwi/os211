@@ -10,12 +10,12 @@
 
 .plainclass {
   color:            white;
-  background-color: #001030;
+  background-color: #37492d;
 }
 
 .plainclass1 {
   color:            white;
-  background-color: #354a12;
+  background-color: #37492d;
 }
 
 .container {
@@ -111,7 +111,7 @@
 }
 
 .navbar {
-  background-color: #222222;
+  background-color: #c99585;
   color:            #FFFFFF;
   font-size:        0.7em;
 }
@@ -128,8 +128,8 @@
 }
 
 .navbar ul li a:hover {
-  background:       rgb(40, 146, 40);
-  color:            #CCCCCC;
+  background:       #c99585;
+  color:            #dbc9ab;
   font-size:        1em;
   font-weight:      bold;
 }

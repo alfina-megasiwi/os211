@@ -4,18 +4,18 @@
  "Mike Dane", "w3schools", et al.
  */
 
-/* .backclass {
+.backclass {
   background-image:url(/assets/images/default.png)
-} */
+}
 
 .plainclass {
   color:            white;
-  background-color: #37492d;
+  background-color: #001030;
 }
 
 .plainclass1 {
   color:            white;
-  background-color: #37492d;
+  background-color: #354a12;
 }
 
 .container {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #37492d;
+  background:       #000000;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -111,7 +111,7 @@
 }
 
 .navbar {
-  background-color: #37492d;
+  background-color: #222222;
   color:            #FFFFFF;
   font-size:        0.7em;
 }
@@ -128,7 +128,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       #c99585;
+  background:       rgb(40, 146, 40);
   color:            #CCCCCC;
   font-size:        1em;
   font-weight:      bold;

@@ -3,10 +3,10 @@
  including but not limited to "bootstrap", "stack overflow", 
  "Mike Dane", "w3schools", et al.
  */
-
+/* 
 .backclass {
   background-image:url(/assets/images/default.png)
-}
+} */
 
 .plainclass {
   color:            white;
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #000000;
+  background:       #37492d;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -128,7 +128,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       #c99585;
+  background:       #37492d;
   color:            #dbc9ab;
   font-size:        1em;
   font-weight:      bold;

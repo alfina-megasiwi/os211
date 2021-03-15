@@ -29,4 +29,4 @@ ZCZC W02 25 L10 Assignment copy myscript.sh, make SHA256SUM and sign it
 ZCZC W02 20 L10 visit neighbor and update myrank for W01
 ZCZC W02 120 L05 GSGS for top10 W02
 ZCZC W02 185 L10 Update top10 
-
+ZCZC W02 60 L10 Try demo week 2

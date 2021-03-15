@@ -10,12 +10,12 @@
 
 .plainclass {
   color:            white;
-  background-color: #001030;
+  background-color: #37492d;
 }
 
 .plainclass1 {
   color:            white;
-  background-color: black;
+  background-color: #37492d;
 }
 
 .container {
@@ -27,11 +27,11 @@
 }
 
 .container a {
-  color: #17a704;
+  color: #c99585;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  color: #dbc9ab;
 }
 
 .row {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #000000;
+  background:       #37492d;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -111,7 +111,7 @@
 }
 
 .navbar {
-  background-color: #222222;
+  background-color: #37492d;
   color:            #FFFFFF;
   font-size:        0.7em;
 }
@@ -128,7 +128,7 @@
 }
 
 .navbar ul li a:hover {
-  background:       rgb(40, 146, 40);
+  background:       #c99585;
   color:            #CCCCCC;
   font-size:        1em;
   font-weight:      bold;

@@ -29,13 +29,12 @@
 }
 
 .container a {
-  color: #dbc9ab;
+  color: #c99585;
   text-decoration: none;
 }
 
 .container a:hover {
   color: #dbc9ab;
-  text-decoration: none;
 }
 
 .row {
@@ -132,8 +131,8 @@
 }
 
 .navbar ul li a:hover {
-  background:       #37492d;
-  color:            #dbc9ab;
+  background:       #dbc9ab;
+  color:            #c99585;
   font-size:        1em;
   font-weight:      bold;
   text-decoration: none;

@@ -30,3 +30,11 @@ ZCZC W02 20 L10 visit neighbor and update myrank for W01
 ZCZC W02 120 L05 GSGS for top10 W02
 ZCZC W02 185 L10 Update top10 
 ZCZC W02 60 L10 Try demo week 2
+ZCZC W03 100 L02 ZOOM
+ZCZC W03 180 L01 Read slide ch13, ch14, and ch15
+ZCZC W03 10 L03 update .bash_aliases
+ZCZC W03 20 L04 update rank
+ZCZC W03 10 L06 update log
+ZCZC W03 60 L07 tar and FUSE related
+ZCZC W03 10 L08 update bash
+ZCZC W03 5 sign SHA256SUM

@@ -68,3 +68,13 @@ ZCZC W06 60 L13 Tulis Top 10
 ZCZC W06 20 L14 tar for week 6
 ZCZC W06 10 L15 update log
 ZCZC W06 3 L16 sign SHA256SUM
+ZCZC W07 100 L02 ZOOM
+ZCZC W07 120 L11 Read chapter 06, 07, and 08 
+ZCZC W07 25 L12 TOP3 Rank
+ZCZC W07 150 LO5 GSGS Top 10 WO7
+ZCZC W07 100 L13 Tulis Top 10
+ZCZC W07 60 L14 tar for week 7 and complete the shared memory tutorial
+ZCZC W07 10 L15 update log
+ZCZC W07 3 L16 sign SHA256SUM
+
+

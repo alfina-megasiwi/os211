@@ -76,5 +76,11 @@ ZCZC W07 100 L13 Tulis Top 10
 ZCZC W07 60 L14 tar for week 7 and complete the shared memory tutorial
 ZCZC W07 10 L15 update log
 ZCZC W07 3 L16 sign SHA256SUM
-
-
+ZCZC W08 100 L02 ZOOM
+ZCZC W08 40 L11 Read Chapter 5
+ZCZC W08 170 L12 Top 3 Rank dan nulis Top 10 Week 8
+ZCZC W08 50 L05 GSGS untuk top 10 
+ZCZC W08 150 L13 LFS 1-4, preparation, and report W08
+ZCZC W08 30 L14 Place report w08 from lfs's ova to debian biasa
+ZCZC W08 10 L15 update log
+ZCZC W08 3 L16 sign SHA256SUM

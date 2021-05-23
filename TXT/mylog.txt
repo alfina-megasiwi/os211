@@ -88,8 +88,8 @@ ZCZC W09 100 L02 ZOOM
 ZCZC W09 40 L11 Read Chapter 11
 ZCZC W09 190 L12 Top 3 Rank dan menulis Top 10 Week 9
 ZCZC W09 90 L05 GSGS untuk top 10 
-ZCZC W08 270 L13 LFS 5-7 and report W08
-ZCZC W08 40 L14 Place report w08 from lfs's ova to debian biasa
-ZCZC W08 10 L15 update log
-ZCZC W08 3 L16 sign SHA256SUM
+ZCZC W09 270 L13 LFS 5-7 and report W08
+ZCZC W09 40 L14 Place report w08 from lfs's ova to debian biasa
+ZCZC W09 10 L15 update log
+ZCZC W09 3 L16 sign SHA256SUM
 

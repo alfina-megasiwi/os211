@@ -92,4 +92,12 @@ ZCZC W09 270 L13 LFS 5-7 and report W08
 ZCZC W09 40 L14 Place report w08 from lfs's ova to debian biasa
 ZCZC W09 10 L15 update log
 ZCZC W09 3 L16 sign SHA256SUM
+ZCZC W10 48 L02 ZOOM
+ZCZC W10 20 L12 Top 3 Rank
+ZCZC W10 20 L13 Tips for the next class os212
+ZCZC W10 428 L14 LFS 8
+ZCZC W10 10 L15 W10 report
+ZCZC W10 10 L16 update log
+ZCZC W10 3 L17 sign SHA256SUM
+
 
